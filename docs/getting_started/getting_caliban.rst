@@ -60,7 +60,7 @@ To check if all is well, run
 
    caliban --help
 
-To take Caliban through its paces, visit the `"Getting Started with Caliban"
+To take Caliban through its paces, visit  `"Getting Started with Caliban"
 <https://github.com/google/caliban#getting-started-with-caliban>`_ tutorial on
 the main page of `Caliban's github repository
 <https://github.com/google/caliban>`_.
